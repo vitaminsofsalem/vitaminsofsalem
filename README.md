@@ -2,8 +2,11 @@
 - 👀 I’m interested in Full Stack Development
 - 💞️ I’m looking to collaborate on anything fun, exciting and useful
 - 📫 How to reach me: 
+- 
    Email: amr.shawki44@gmail.com
+   
    Twitter: https://twitter.com/Amr__Shawki
+   
    Discord: amr.shawki#0890
 
 <!---
