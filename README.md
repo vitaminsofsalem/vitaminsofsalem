@@ -1,8 +1,10 @@
-- 👋 Hi, I’m @vitaminsofsalem (Amr Ahmed)
-- 👀 I’m interested in Full Stack Web Development as well as Game Development
-- 🌱 I’m currently learning the MERN stack and Three.js
+- 👋 Hi, I’m @vitaminsofsalem (Amr Shawki)
+- 👀 I’m interested in Full Stack Development
 - 💞️ I’m looking to collaborate on anything fun, exciting and useful
-- 📫 How to reach me email: amr.shawki44@gmail.com
+- 📫 How to reach me: 
+   Email: amr.shawki44@gmail.com
+   Twitter: https://twitter.com/Amr__Shawki
+   Discord: amr.shawki#0890
 
 <!---
 vitaminsofsalem/vitaminsofsalem is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
