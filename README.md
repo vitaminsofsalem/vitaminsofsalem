@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Amr Shawki</h1>
-<h3 align="center">A Driven Software Developer</h3>
+<h3 align="center">A Hard Working Driven Software Developer</h3>
 
 - 🔭 I’m currently working on [Rendezvous](https://github.com/vitaminsofsalem/Rendezvous_App)
 
