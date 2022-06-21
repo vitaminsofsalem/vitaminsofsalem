@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **amr.shawki44@gmail.com**
 
-- 📄 Know about my experiences [https://myresume.tiiny.site/](https://myresume.tiiny.site/)
+- 📄 Know about my experiences: TODO :)
 
 - ⚡ Fun fact **Shoot me a message. I don't bite 😝**
 
