@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Rabbit](https://rabbit-client.vercel.app/)
 
-- 🌱 I’m currently learning **Complete JS Course in 2022**
+- 🌱 I’m currently learning [Three.js](https://threejs.org/docs/)
 
 - 👨‍💻 All of my projects are available at [github.com/vitaminsofsalem](github.com/vitaminsofsalem)
 
