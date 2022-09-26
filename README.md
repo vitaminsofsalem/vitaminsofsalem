@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Amr Shawki</h1>
 <h3 align="center">A Hard Working Driven Software Developer</h3>
 
-- 🔭 I’m currently working on my personal [website](https://amrshawki.com)
+- 🔭 I’m currently working on my personal [website](https://amrshawki.com).
 
-- 🌱 I’m currently learning [Three.js](https://threejs.org/docs/)
+- 🌱 I’m currently learning [Three.JS](https://threejs.org/docs/) & [Vue.JS](https://vuejs.org/)
 
 - 👨‍💻 All of my projects are available at [github.com/vitaminsofsalem](github.com/vitaminsofsalem)
 
