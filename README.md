@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **amr.shawki44@gmail.com**
 
-- 📄 Know about my experiences: TODO :)
+- 📄 Know about my experiences: https://amrshawki.framer.website/
 
 - ⚡ Fun fact **Shoot me a message. I don't bite 😝**
 
