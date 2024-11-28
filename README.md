@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Amr Shawki</h1>
-<h3 align="center">A Driven Backend Engineer</h3>
+<h3 align="center">A driven Backend Engineer</h3>
 
 - 🔭 I’m currently working on my personal [website](https://amrshawki.com).
 
